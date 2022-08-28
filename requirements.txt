@@ -1,0 +1,4 @@
+beautifulsoup4==4.10.0
+instaloader==4.8.3
+requests==2.22.0
+html5lib==1.0.1
